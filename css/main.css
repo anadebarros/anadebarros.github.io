@@ -563,3 +563,8 @@ div#maincontent {
   margin: 0 auto;
   float: inherit;
 }
+
+.email{
+  margin-top: 30px;
+  font-size: 25px;
+}
