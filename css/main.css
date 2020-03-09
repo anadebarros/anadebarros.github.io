@@ -86,7 +86,7 @@ hr.flask-primary:after {
 }
 header {
   text-align: center;
-  background: url(../img/anadebarros.jpg) no-repeat center center fixed/cover;
+  background: url(../img/anadebarros.jpg) no-repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-position-y: -100px;
