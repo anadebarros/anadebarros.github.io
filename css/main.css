@@ -589,4 +589,16 @@ div#maincontent {
   #portfolio .portfolio-item {
     width: 40%;
   }
+  #about .about-row {
+    flex-direction: column;
+  }
+  #about .about-image {
+    width: 80%;
+    margin-bottom: 10px;
+  }
+  #about .download-cv {
+    display: block;
+    margin: 20px auto 0;
+    max-width: 210px;
+  }
 }
